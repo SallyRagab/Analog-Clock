@@ -1,2 +1,2 @@
 # Analog-Clock
-A JavaScript project
+A JavaScript project from the 'JavaScript essential training' on lynda.com
